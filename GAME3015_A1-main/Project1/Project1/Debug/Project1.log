@@ -1,0 +1,3 @@
+﻿C:\Users\Admin PC\Desktop\HF\GBC\.Sem4\AdvanceGraphics\DirectX-master\Project1\Project1\Shaders\PS.hlsl(5,15-25): error X4502: invalid vs_2_0 output semantic 'SV_TARGET'
+  
+  compilation failed; no code produced
